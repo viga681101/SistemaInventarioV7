@@ -4,14 +4,155 @@
     "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj": {
+    "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\SistemaInventariosV7.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj",
-        "projectName": "SistemaInventariosV7",
-        "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj",
+        "projectUniqueName": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\SistemaInventariosV7.AccesoDatos.csproj",
+        "projectName": "SistemaInventariosV7.AccesoDatos",
+        "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\SistemaInventariosV7.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\viga6\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\obj\\",
+        "outputPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\viga6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj": {
+                "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj"
+              },
+              "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj",
+        "projectName": "SistemaInventariosV7.Modelos",
+        "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj",
+        "packagesPath": "C:\\Users\\viga6\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\viga6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj",
+        "projectName": "SistemaInventariosV7.Utilidades",
+        "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\viga6\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,26 +185,106 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj",
+        "projectName": "SistemaInventariosV7",
+        "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj",
+        "packagesPath": "C:\\Users\\viga6\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\viga6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\SistemaInventariosV7.AccesoDatos.csproj": {
+                "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\SistemaInventariosV7.AccesoDatos.csproj"
+              },
+              "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj": {
+                "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Modelos\\SistemaInventariosV7.Modelos.csproj"
+              },
+              "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj": {
+                "projectPath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             }
           },
           "imports": [
@@ -85,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

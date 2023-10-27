@@ -1,0 +1,15 @@
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\bin\Debug\net7.0\SistemaInventariosV7.Modelos.deps.json
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\bin\Debug\net7.0\SistemaInventariosV7.Modelos.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\bin\Debug\net7.0\SistemaInventariosV7.Modelos.pdb
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.AssemblyInfoInputs.cache
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.AssemblyInfo.cs
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.csproj.CoreCompileInputs.cache
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\refint\SistemaInventariosV7.Modelos.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.pdb
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\ref\SistemaInventariosV7.Modelos.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\bin\Debug\net7.0\SistemaInventariosV7.Utilidades.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\bin\Debug\net7.0\SistemaInventariosV7.Utilidades.pdb
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.csproj.AssemblyReference.cache
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Modelos\obj\Debug\net7.0\SistemaInventariosV7.Modelos.csproj.CopyComplete

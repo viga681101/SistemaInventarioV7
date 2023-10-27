@@ -1,0 +1,11 @@
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\bin\Debug\net7.0\SistemaInventariosV7.Utilidades.deps.json
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\bin\Debug\net7.0\SistemaInventariosV7.Utilidades.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\bin\Debug\net7.0\SistemaInventariosV7.Utilidades.pdb
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.AssemblyInfoInputs.cache
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.AssemblyInfo.cs
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\refint\SistemaInventariosV7.Utilidades.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.pdb
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\ref\SistemaInventariosV7.Utilidades.dll
