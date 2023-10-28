@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-SistemaInventariosV7-aad13cac-c768-4d49-8e80-a503ac0dc1d0</UserSecretsId>
   </PropertyGroup>
@@ -24,10 +24,6 @@
     <ProjectReference Include="..\SistemaInventariosV7.AccesoDatos\SistemaInventariosV7.AccesoDatos.csproj" />
     <ProjectReference Include="..\SistemaInventariosV7.Modelos\SistemaInventariosV7.Modelos.csproj" />
     <ProjectReference Include="..\SistemaInventariosV7.Utilidades\SistemaInventariosV7.Utilidades.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>
