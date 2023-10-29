@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EzuR4qQPNpFx9fUbkuYR14F44n+nDocdhGqJwitgQ2o=",
+  "Hash": "IuPOZXxiF/hkvSPYkyU5qme6GmDFrxAMuTPIRBZijAg=",
   "Source": "SistemaInventariosV7",
   "BasePath": "_content/SistemaInventariosV7",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaInventariosV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventariosV7",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\js\\site.js",
