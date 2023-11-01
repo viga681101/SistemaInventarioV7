@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NW5LwtGmUdLxKoy5fr0H3Xv2ue0yh+nYOhhjshRR30Q=",
+  "Hash": "UCL90jMnYd/B2Fin1SGX/U5OteC6edzUhWtEZC+jvQM=",
   "Source": "SistemaInventariosV7",
   "BasePath": "_content/SistemaInventariosV7",
   "Mode": "Default",
@@ -85,6 +85,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\icono.ico",
+      "SourceId": "SistemaInventariosV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventariosV7",
+      "RelativePath": "imagenes/icono.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\icono.ico"
+    },
+    {
+      "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\icono.png",
+      "SourceId": "SistemaInventariosV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventariosV7",
+      "RelativePath": "imagenes/icono.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\icono.png"
+    },
+    {
       "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\producto\\014db21a-2201-4c14-a8e5-aa640b94d6d5.JPG",
       "SourceId": "SistemaInventariosV7",
       "SourceType": "Discovered",
@@ -100,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\014db21a-2201-4c14-a8e5-aa640b94d6d5.JPG"
+    },
+    {
+      "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\producto\\0cd184b8-7ffe-4d08-a53b-9e958beb476e.JPG",
+      "SourceId": "SistemaInventariosV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventariosV7",
+      "RelativePath": "imagenes/producto/0cd184b8-7ffe-4d08-a53b-9e958beb476e.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\0cd184b8-7ffe-4d08-a53b-9e958beb476e.JPG"
     },
     {
       "Identity": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\producto\\66b25c8a-695d-4f5f-aa51-e40329adf92e.JPG",
