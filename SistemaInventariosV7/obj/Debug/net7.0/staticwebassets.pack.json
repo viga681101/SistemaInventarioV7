@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\producto\\014db21a-2201-4c14-a8e5-aa640b94d6d5.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\014db21a-2201-4c14-a8e5-aa640b94d6d5.JPG"
+    },
+    {
+      "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\producto\\66b25c8a-695d-4f5f-aa51-e40329adf92e.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\66b25c8a-695d-4f5f-aa51-e40329adf92e.JPG"
+    },
+    {
+      "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\imagenes\\producto\\8ec0bbd5-0017-4c5d-9495-cc49177935cc.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\8ec0bbd5-0017-4c5d-9495-cc49177935cc.JPG"
+    },
+    {
       "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +35,10 @@
     {
       "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\wwwroot\\js\\site.js",
