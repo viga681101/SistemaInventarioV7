@@ -9,3 +9,4 @@ C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaIn
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\refint\SistemaInventariosV7.Utilidades.dll
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.pdb
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\ref\SistemaInventariosV7.Utilidades.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7.Utilidades\obj\Debug\net7.0\SistemaInventariosV7.Utilidades.csproj.AssemblyReference.cache

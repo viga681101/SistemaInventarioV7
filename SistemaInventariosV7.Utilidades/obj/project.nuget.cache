@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "lrz2j0IjJ5V7kfb4mA4LE1MWo1xMeMFaagqesoxFTGLotL4KKfupCKiDOg7+3ljLsQHGF7sd+9AYLaT5yEyA0A==",
+  "dgSpecHash": "VmNjhO4zvvkuxhORPfmgrbbOkGqJ2Ci/hfs337FAAaMLQkead9XipePpSkrQgVlCrzoNxwIvDlVfrCmG/Hwz8w==",
   "success": true,
   "projectFilePath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.Utilidades\\SistemaInventariosV7.Utilidades.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.13\\microsoft.aspnetcore.cryptography.keyderivation.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.13\\microsoft.aspnetcore.identity.ui.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.13\\microsoft.extensions.fileproviders.embedded.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.13\\microsoft.extensions.identity.core.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.13\\microsoft.extensions.identity.stores.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

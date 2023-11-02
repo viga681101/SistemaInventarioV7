@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FihTdWek4En67QkPWFDVjW3QRXWQjKzfa4JTpyKrIXoyE8kOOCbH8MkSwfK3hHYb0RhIQ9bVyRPkFFNciJRarQ==",
+  "dgSpecHash": "8wsb2tTwaWEvW/KoU6v1XB+lajBw8UNUlZL35JfiNTl7MSrUqc7h2mGk1Qm6Usqi6LYPQRji/tTwBZVWEdWd8w==",
   "success": true,
   "projectFilePath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7.AccesoDatos\\SistemaInventariosV7.AccesoDatos.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.13\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.13.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.13\\microsoft.aspnetcore.identity.ui.7.0.13.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
@@ -50,7 +51,8 @@
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
-    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.13\\microsoft.extensions.fileproviders.embedded.7.0.13.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.13\\microsoft.extensions.identity.core.7.0.13.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.13\\microsoft.extensions.identity.stores.7.0.13.nupkg.sha512",
