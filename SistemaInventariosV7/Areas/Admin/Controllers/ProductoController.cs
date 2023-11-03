@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SistemaInventariosV7.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventariosV7.Modelos;
 using SistemaInventariosV7.Modelos.ViewModels;
@@ -7,6 +8,7 @@ using SistemaInventariosV7.Utilidades;
 namespace SistemaInventariosV7.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = DS.Role_Admin + "," + DS.Role_Inventario)]
     public class ProductoController : Controller
     {
         private readonly IUnidadTrabajo _unidadTrabajo;
