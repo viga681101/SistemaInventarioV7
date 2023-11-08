@@ -232,6 +232,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xJbnZlbnRhcmlvXERldGFsbGVJbnZlbnRhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Proyectos 2023/Cursos 2023/Guia Completa ASP.NET Core MVC (Net 7.0)/SistemaInventariosV7/SistemaInventariosV7/Areas/Inventario/Views/Inventario/ImprimirKardex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xJbnZlbnRhcmlvXEltcHJpbWlyS2FyZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Proyectos 2023/Cursos 2023/Guia Completa ASP.NET Core MVC (Net 7.0)/SistemaInventariosV7/SistemaInventariosV7/Areas/Inventario/Views/Inventario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xJbnZlbnRhcmlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
