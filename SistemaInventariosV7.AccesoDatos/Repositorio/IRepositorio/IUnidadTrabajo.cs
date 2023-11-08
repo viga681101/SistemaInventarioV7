@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace SistemaInventariosV7.AccesoDatos.Repositorio.IRepositorio
 {
-    public interface IUnidadTrabajo: IDisposable
+    public interface IUnidadTrabajo : IDisposable
     {
         IBodegaRepositorio Bodega { get; }
         ICategoriaRepositorio Categoria { get; }
         IMarcaRepositorio Marca { get; }
         IProductoRepositorio Producto { get; }
         IUsuarioAplicacionRepositorio usuarioAplicacion { get; }
+        IBodegaProductoRepositorio BodegaProducto { get; }
+        IInventarioRepositorio Inventario { get; }
+        IInventarioDetalleRepositorio InventarioDetalle { get; }
+        IKardexInventarioRepositorio KardexInventario {  get; }
+
         Task Guardar();
 
     }

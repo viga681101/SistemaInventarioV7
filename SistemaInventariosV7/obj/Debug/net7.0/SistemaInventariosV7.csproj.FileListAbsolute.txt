@@ -63,7 +63,6 @@ C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaIn
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.AssemblyInfoInputs.cache
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.AssemblyInfo.cs
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.csproj.CoreCompileInputs.cache
-C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.MvcApplicationPartsAssemblyInfo.cs
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.MvcApplicationPartsAssemblyInfo.cache
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.RazorAssemblyInfo.cache
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.RazorAssemblyInfo.cs
@@ -595,3 +594,5 @@ C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaIn
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\obj\Debug\net7.0\SistemaInventariosV7.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\libman.json
