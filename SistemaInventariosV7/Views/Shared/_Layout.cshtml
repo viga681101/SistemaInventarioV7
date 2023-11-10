@@ -1,4 +1,6 @@
 ﻿@using SistemaInventariosV7.Utilidades
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor httpContextAccessor
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,6 +111,28 @@
                                     </li>
                                 </ul>
                             </li>
+                        }
+
+                        @if (httpContextAccessor.HttpContext.Session.GetInt32(DS.ssCarroCompras) != null)
+                        {
+                            <li class="nav-item">
+                                <a asp-area="Inventario" asp-controller="Carro" asp-action="Index" class="nav-link text-dark">
+                                    @{
+                                        var numeroProductos = httpContextAccessor.HttpContext.Session.GetInt32(DS.ssCarroCompras);
+                                    }
+                                    <i class="bi bi-cart-fill text-dark">&nbsp; (@numeroProductos) </i>
+                                </a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a href="#" class="nav-link text-dark">
+                                    <i class="bi bi-cart-fill text-dark">&nbsp; (0) </i>
+                                 
+                                </a>
+                            </li>
+                           
                         }
                     </ul>
                     <partial name="_LoginPartial" />

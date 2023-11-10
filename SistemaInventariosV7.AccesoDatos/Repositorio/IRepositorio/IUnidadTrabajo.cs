@@ -12,7 +12,7 @@ namespace SistemaInventariosV7.AccesoDatos.Repositorio.IRepositorio
         ICategoriaRepositorio Categoria { get; }
         IMarcaRepositorio Marca { get; }
         IProductoRepositorio Producto { get; }
-        IUsuarioAplicacionRepositorio usuarioAplicacion { get; }
+        IUsuarioAplicacionRepositorio UsuarioAplicacion { get; }
         IBodegaProductoRepositorio BodegaProducto { get; }
         IInventarioRepositorio Inventario { get; }
         IInventarioDetalleRepositorio InventarioDetalle { get; }

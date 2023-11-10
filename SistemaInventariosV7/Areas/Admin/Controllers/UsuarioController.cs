@@ -29,7 +29,7 @@ namespace SistemaInventariosV7.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> ObtenerTodos()
         {
-            var usuarioLista = await _unidadTrabajo.usuarioAplicacion.ObtenerTodos();
+            var usuarioLista = await _unidadTrabajo.UsuarioAplicacion.ObtenerTodos();
             var userRole = await _db.UserRoles.ToListAsync();
             var roles = await _db.Roles.ToListAsync();
             foreach (var usuario in usuarioLista)
@@ -42,7 +42,7 @@ namespace SistemaInventariosV7.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> BloquearDesbloquear([FromBody] string id)
         {
-            var usuario = await _unidadTrabajo.usuarioAplicacion.ObtenerPrimero(u => u.Id == id);
+            var usuario = await _unidadTrabajo.UsuarioAplicacion.ObtenerPrimero(u => u.Id == id);
             if(usuario == null)
             {
                 return Json(new { success = false, message = "Error de Usuario" });
