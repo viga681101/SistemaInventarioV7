@@ -599,3 +599,4 @@ C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaIn
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\Rotativa\Windows\wkhtmltoimage.exe
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\Rotativa\Windows\wkhtmltopdf.exe
 C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\Rotativa.AspNetCore.dll
+C:\Proyectos 2023\Cursos 2023\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariosV7\SistemaInventariosV7\bin\Debug\net7.0\Stripe.net.dll

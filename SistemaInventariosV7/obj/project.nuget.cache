@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1l4bX/yELgG7BtrStFQS+3BqckZ3BzcrdjmiDou+ZkSSz402qzcW9C1+2PrACznzpmOfIzI90UFgFkcDVSrjtg==",
+  "dgSpecHash": "v3ag8rRjnHCgTbmjq2/WxHtdDsoqA819DcR+W7oyJBFA4OAIXD1rdqvO6rHmKSYwA4sSqfsdacE/5qTo0TQjtA==",
   "success": true,
   "projectFilePath": "C:\\Proyectos 2023\\Cursos 2023\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariosV7\\SistemaInventariosV7\\SistemaInventariosV7.csproj",
   "expectedPackageFiles": [
@@ -207,6 +207,7 @@
     "C:\\Users\\viga6\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\viga6\\.nuget\\packages\\stripe.net\\43.2.0\\stripe.net.43.2.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\viga6\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
